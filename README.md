@@ -1,4 +1,4 @@
-# Introduction to python study group
+# **Introduction to Python Study Group**
 This repository is a generic 8 week introduction on how to develop in python. The content is targeted to users who are new to python or are in need of a refresh on the basics tools and best practices. 
 
 ![Alt text](assets/image.png)
